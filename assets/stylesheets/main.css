@@ -11,7 +11,7 @@
 
 .grid {
   margin: 0 auto;
-  max-width: 1200px;
+  max-width: 960px;
   width: 100%;
 }
 
@@ -67,4 +67,33 @@
 
 .col-12 {
   width: 100%;
+}
+
+h1, h3 {
+  color: #747704;
+}
+
+.logo {
+  height: 100px;
+  width: 100px;
+}
+
+.header h1,
+.header h3 {
+  text-align: right;
+}
+
+.featured {
+  width: 100%
+}
+
+.featured h3,
+.featured p {
+  text-align: center;
+}
+
+.featured h2,
+.featured p {
+  color: #BCBBBB;
+  overflow: auto;
 }
